@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A Passionate Fullstack developer.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 📫 How to reach me **singhrishi2929@gmail.com**
 
