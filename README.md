@@ -35,4 +35,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi2929&show_icons=true&locale=en&layout=compact" alt="rishi2929" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishi2929&" alt="rishi2929" /></p>
